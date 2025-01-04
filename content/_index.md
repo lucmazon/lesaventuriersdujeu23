@@ -9,10 +9,27 @@ Bienvenue chez les aventuriers du jeu !
 
 ![portrait](20250104.png)
 
-[//]: # ({{< cards >}})
+## À venir
 
-[//]: # (  {{< card link="docs" title="Docs" icon="book-open" >}})
+- 1er février : Nouzerines (à confirmer)
 
-[//]: # (  {{< card link="about" title="About" icon="user" >}})
+- 1er mars : Bussière-Saint-Georges (à confirmer)
 
-[//]: # ({{< /cards >}})
+- 5 avril : Saint Marien (à confirmer)
+
+- 3 mai : Nouzerines (à confirmer)
+
+- 7 juin : Bussière-Saint-Georges (à confirmer)
+
+- 5 juillet : Saint Marien (à confirmer)
+
+## Ludothèque
+
+Les jeux disponibles de l’association sont ici :
+
+
+
+{{< cards >}}
+  {{< card link="games" title="Jeux" >}}
+  {{< card link="contact" title="Contact" icon="user" >}}
+{{< /cards >}}
