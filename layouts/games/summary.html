@@ -1,0 +1,24 @@
+  <div class='hx-mx-auto hx-flex {{ partial "utils/page-width" . }}'>
+        <div class="content">
+
+           <table>
+             <tr>
+               <td>
+                 {{ if .Title }}<h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>{{ end }}
+
+                 <a href="{{ .Params.philibert_url }}">
+                   <img src="{{ .Params.img_url }}" alt="{{ .Params.img_alt }}">
+                 </a>
+               </td>
+               <td>
+                 {{ .Params.small_description }}
+                 <ul>
+                   <li>{{ .Params.players }}</li>
+                   <li>{{ .Params.age }}</li>
+                   <li>{{ .Params.duration }}</li>
+                 </ul>
+               </td>
+             </tr>
+           </table>
+        </div>
+  </div>

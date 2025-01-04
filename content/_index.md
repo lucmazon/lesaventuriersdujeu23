@@ -31,5 +31,4 @@ Les jeux disponibles de l’association sont ici :
 
 {{< cards >}}
   {{< card link="games" title="Jeux" >}}
-  {{< card link="contact" title="Contact" icon="user" >}}
 {{< /cards >}}
