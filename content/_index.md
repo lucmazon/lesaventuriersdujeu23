@@ -7,21 +7,19 @@ Bienvenue chez les aventuriers du jeu !
 
 ## Prochaines séance
 
-![portrait](2025-02-to-2025-08.png)
+![portrait](2025-05-to-2026-01.png)
 
 Horaires : 18H à 23H
 
-- 1er février : Nouzerines
-
-- 1er mars : Bussière-Saint-Georges
-
-- 5 avril : Saint Marien
-
 - 3 mai : Nouzerines
-
 - 14 juin : Bussière-Saint-Georges
-  
 - 5 juillet : Saint Marien
+- 2 août : Nouzerines
+- 6 septembre : Bussière-Saint-Georges
+- 4 octobre : Saint Marien
+- 1 novembre : Nouzerines
+- 6 décembre : Bussière-Saint-Georges
+- 3 janvier : Saint Marien
 
 ## Ludothèque
 
