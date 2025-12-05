@@ -22,6 +22,10 @@ menu:
       pageRef: /games
     - name: Contact
       pageRef: /contact
+    - name: Les statuts
+      pageRef: /association/status
+    - name: Le règlement intérieur
+      pageRef: /association/rules
 
 params:
   navbar:
