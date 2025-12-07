@@ -22,10 +22,16 @@ menu:
       pageRef: /games
     - name: Contact
       pageRef: /contact
-    - name: Les statuts
+    - identifier: association
+      name: L’association
+    - identifier: status
+      name: Les statuts
       pageRef: /association/status
-    - name: Le règlement intérieur
+      parent: association
+    - identifier: rules
+      name: Le règlement intérieur
       pageRef: /association/rules
+      parent: association
 
 params:
   navbar:

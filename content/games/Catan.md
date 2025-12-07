@@ -2,7 +2,7 @@
 age: à partir de 10 ans
 date: '2025-01-04T15:07:53.298427+00:00'
 duration: 1 à 2h
-img_url: https://cdn3.philibertnet.com/415739-large_default/catane.jpg
+img_url: https://cdn3.philibertnet.com/797512-large_default/catane.jpg
 philibert_url: https://www.philibertnet.com/fr/kosmos/10772-catane-3558380099673.html
 players: 3 à 4 joueur(s)
 small_description: Explorez l'île de Catane et utilisez vos ressources pour construire

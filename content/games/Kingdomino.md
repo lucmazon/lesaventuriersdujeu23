@@ -2,7 +2,7 @@
 age: à partir de 8 ans
 date: '2025-01-04T15:07:52.231409+00:00'
 duration: moins de 30mn
-img_url: https://cdn2.philibertnet.com/359445-large_default/kingdomino.jpg
+img_url: https://cdn1.philibertnet.com/792397-large_default/kingdomino.jpg
 philibert_url: https://www.philibertnet.com/fr/blue-orange/44925-kingdomino-3664824001215.html
 players: 2 à 4 joueur(s)
 small_description: Avec Kingdomino, constituez-vous le plus beau des royaumes en récupérant

@@ -3,7 +3,7 @@ title: "Règlement intérieur"
 date: 2025-12-05T21:32:44+01:00
 ---
 
-**Règlement intérieur de l’association « Les aventuriers du jeu » \- 2025-12-06**
+**Règlement intérieur de l’association « Les aventuriers du jeu » \- 06/12/2025**
 
 **Article 1 \- Cotisations**
 
