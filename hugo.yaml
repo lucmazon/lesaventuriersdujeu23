@@ -20,18 +20,20 @@ menu:
   main:
     - name: Jeux
       pageRef: /games
-    - name: Contact
-      pageRef: /contact
+      weight: 1
     - identifier: association
       name: L’association
-    - identifier: status
-      name: Les statuts
+      weight: 2
+    - name: Les statuts
       pageRef: /association/status
       parent: association
-    - identifier: rules
-      name: Le règlement intérieur
+    - name: Le règlement intérieur
       pageRef: /association/rules
       parent: association
+    - name: Contact
+      pageRef: /contact
+      weight: 3
+
 
 params:
   navbar:

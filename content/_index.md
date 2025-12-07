@@ -3,10 +3,11 @@ title: Les aventuriers du jeu
 toc: false
 ---
 
+<br/>
 Bienvenue chez les aventuriers du jeu !
 
 Nous organisons des soirées jeux une fois par mois, (normalement) le premier samedi du mois, en roulement sur les communes de Nouzerines, Bussière-Saint-Georges et Saint Marien.
-Ça se passe de 18h à 23h, et c'est ouvert pour tout public !
+Ça se passe de 18h à 23h, et c'est ouvert tout public !
 
 L'association apporte des jeux, et vous pouvez ramener les vôtres également. Chacun rapporte à boire et à manger, et on se partage tout ça, dans la joie et la bonne humeur !
 
