@@ -18,12 +18,17 @@ markup:
 
 menu:
   main:
+    - name: Facebook
+      params:
+        icon: facebook
+      url: "https://www.facebook.com/profile.php?id=61585309705562"
+      weight: 1
     - name: Jeux
       pageRef: /games
-      weight: 1
+      weight: 2
     - identifier: association
       name: L’association
-      weight: 2
+      weight: 3
     - name: Les statuts
       pageRef: /association/status
       parent: association
@@ -32,7 +37,7 @@ menu:
       parent: association
     - name: Contact
       pageRef: /contact
-      weight: 3
+      weight: 4
 
 
 params:
